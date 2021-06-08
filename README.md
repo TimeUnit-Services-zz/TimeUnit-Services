@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 ### My WebSite: http://rhco.ga/
-### Minecraft Java Developer and HTML☕ Actually working in Lazze Services 🚬
+### Minecraft Java Developer and HTML☕ Actually working in rDevelopment 🚬
 <a href="https://github.com/rHCO-rDevelopment">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rHCO-rDevelopment&show_icons=true&count_private=true&theme=synthwave" />
 </a>
