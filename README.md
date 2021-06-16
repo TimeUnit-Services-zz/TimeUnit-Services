@@ -14,7 +14,7 @@
 <a href="https://github.com/rHCO-rDevelopment">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=rHCO-rDevelopment&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
 </a>
-<a href="https://github.com/NulledCodeDev">
+<a href="https://github.com/rHCO-rDevelopment">
   <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rHCO-rDevelopment&layout=compact&theme=radical />
 </a>
 
