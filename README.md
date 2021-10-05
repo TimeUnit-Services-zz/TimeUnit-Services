@@ -3,7 +3,7 @@
 <br />
 
 - 🔭 Im currently working on [@TimeServices](https://github.com/TimeUnit-Services).  
-- 📫 How to reach me: TimeUnit#0001 in discord
+- 📫 How to reach me: TimeUnit#5583 in discord
 
 <br />
 
